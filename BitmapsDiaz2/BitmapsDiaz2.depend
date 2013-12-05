@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1386213298 source:/home/lightsaga/programming/BitmapsDiaz2/main.c
+	<stdio.h>
+	<stdlib.h>
+

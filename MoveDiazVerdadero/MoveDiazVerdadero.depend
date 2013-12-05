@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1386200651 source:/home/lightsaga/programming/MoveDiazVerdadero/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/uio.h>
+	<sys/stat.h>
+	<syscall.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1386198854 source:/home/lightsaga/programming/EraseDiaz/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/uio.h>
+	<sys/stat.h>
+	<syscall.h>
+
